@@ -12,3 +12,6 @@ def NULL_Check (df):
 def List_Column(list)
     ser = pd.Series(list)
     return df['new_col']=ser.values
+
+List_Column(l)
+NULL_Check(df)
