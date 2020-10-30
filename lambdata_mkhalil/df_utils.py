@@ -13,5 +13,5 @@ def List_Column(list)
     ser = pd.Series(list)
     return df['new_col']=ser.values
 
-List_Column(l)
-NULL_Check(df)
+List_to_df_column = List_Column(l)
+Check_Nulls=NULL_Check(df)
