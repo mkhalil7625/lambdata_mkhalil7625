@@ -14,9 +14,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='lambdata_mkhalil7625',
-    version="0.0.6",
-    author='mkhalil',
-    description="A collection of Data Science helper functions",
+    version="0.0.7",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     url="https://lambdaschool.com/courses/data-science/",
