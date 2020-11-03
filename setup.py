@@ -13,9 +13,9 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name=<PROJ_NAME>,
+    name='lambdata_mkhalil7625',
     version="0.0.7",
-    author='lambdata_mkhalil7625',
+    author='mkhalil7625',
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
